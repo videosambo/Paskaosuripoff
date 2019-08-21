@@ -8,3 +8,5 @@ Saa kopioida, parannella sekä pelata omalla riskillä
 # Kuinka pelata peliä?
 
 No saatana lataat ton peli.jar, koodi on sama niinku muute git hubis, jos et usko niin jdgui tulille ja kattomaa. Pidä hauskaa, miun korkein score on 3800
+
+Näppäimet ovat A, S, D ja F
